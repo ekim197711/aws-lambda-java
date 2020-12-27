@@ -1,0 +1,2 @@
+com/example/lambdaandtesting/lambda/MyAwesomeLambdaTest.java
+ com.example.lambdaandtesting.lambda.MyAwesomeLambdaTest

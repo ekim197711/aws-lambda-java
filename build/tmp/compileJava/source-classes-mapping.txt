@@ -1,0 +1,4 @@
+com/example/lambdaandtesting/lambda/SpaceShip.java
+ com.example.lambdaandtesting.lambda.SpaceShip
+com/example/lambdaandtesting/lambda/MyAwesomeLambda.java
+ com.example.lambdaandtesting.lambda.MyAwesomeLambda
