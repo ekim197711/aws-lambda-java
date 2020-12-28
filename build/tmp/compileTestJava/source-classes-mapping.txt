@@ -1,2 +1,4 @@
 com/example/lambdaandtesting/lambda/MyAwesomeLambdaTest.java
  com.example.lambdaandtesting.lambda.MyAwesomeLambdaTest
+com/example/lambdaandtesting/lambda/AwesomeLambdaProxyTest.java
+ com.example.lambdaandtesting.lambda.AwesomeLambdaProxyTest

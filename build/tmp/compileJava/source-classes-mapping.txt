@@ -2,3 +2,11 @@ com/example/lambdaandtesting/lambda/SpaceShip.java
  com.example.lambdaandtesting.lambda.SpaceShip
 com/example/lambdaandtesting/lambda/MyAwesomeLambda.java
  com.example.lambdaandtesting.lambda.MyAwesomeLambda
+com/example/lambdaandtesting/lambda/LambdaProxyResponse.java
+ com.example.lambdaandtesting.lambda.LambdaProxyResponse
+ com.example.lambdaandtesting.lambda.LambdaProxyResponse$LambdaProxyResponseBuilder
+com/example/lambdaandtesting/lambda/LambdaProxyRequest.java
+ com.example.lambdaandtesting.lambda.LambdaProxyRequest
+ com.example.lambdaandtesting.lambda.LambdaProxyRequest$LambdaProxyRequestBuilder
+com/example/lambdaandtesting/lambda/AwesomeLambdaProxy.java
+ com.example.lambdaandtesting.lambda.AwesomeLambdaProxy

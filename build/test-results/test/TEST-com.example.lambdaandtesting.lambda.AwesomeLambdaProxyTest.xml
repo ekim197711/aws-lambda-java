@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.lambdaandtesting.lambda.AwesomeLambdaProxyTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-28T03:20:29" hostname="mike-VirtualBox" time="0.339">
+  <properties/>
+  <testcase name="handleRequest()" classname="com.example.lambdaandtesting.lambda.AwesomeLambdaProxyTest" time="0.339"/>
+  <system-out><![CDATA[My lambda BEGINCONTEXT: {
+  "memoryLimit": 2134,
+  "awsRequestId": "bf234d68-f20a-4ebe-9825-829153ab7655",
+  "logGroupName": "mygroup",
+  "logStreamName": "mylogStream",
+  "functionName": "myfunction",
+  "functionVersion": "1.0",
+  "invokedFunctionArn": "sadfasdf",
+  "deadlineTimeInMs": 1234,
+  "cognitoIdentity": {
+    "cognitoIdentityId": "e90d9063-3565-4b9a-9d9b-d43c2669e579",
+    "cognitoIdentityPoolId": "1"
+  },
+  "clientContext": {}
+}EVENT: {
+  "resource": "",
+  "path": "/asdsdf",
+  "httpMethod": "GET",
+  "headers": {},
+  "queryStringParameters": {},
+  "pathParameters": {},
+  "stageVariables": {},
+  "context": {
+    "memoryLimit": 2134,
+    "awsRequestId": "bf234d68-f20a-4ebe-9825-829153ab7655",
+    "logGroupName": "mygroup",
+    "logStreamName": "mylogStream",
+    "functionName": "myfunction",
+    "functionVersion": "1.0",
+    "invokedFunctionArn": "sadfasdf",
+    "deadlineTimeInMs": 1234,
+    "cognitoIdentity": {
+      "cognitoIdentityId": "e90d9063-3565-4b9a-9d9b-d43c2669e579",
+      "cognitoIdentityPoolId": "1"
+    },
+    "clientContext": {}
+  },
+  "body": "{}",
+  "isBase64Encoded": false
+}EVENT TYPE: class com.example.lambdaandtesting.lambda.LambdaProxyRequestMy lambda ENDLambdaProxyResponse(isBase64Encoded=false, statusCode=200, headers={GreetingFromMike=tuuttelluuuj helloooo hi hi hi123}, multiValueHeaders={}, body={
+  "model": "pyramid",
+  "captain": "Mike",
+  "fuel": 55
+})
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
